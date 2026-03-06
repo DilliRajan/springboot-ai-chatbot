@@ -56,7 +56,7 @@ springboot-ai-chatbot
 ⚙️ Setup Instructions
 
 1️⃣ Clone the Repository
-git clone https://github.com/YOUR_USERNAME/springboot-ai-chatbot.git
+git clone https://github.com/DilliRajan/springboot-ai-chatbot
 cd springboot-ai-chatbot
 
 2️⃣ Configure OpenAI API Key
