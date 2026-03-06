@@ -1,0 +1,6 @@
+server:
+  port: 8083
+
+openai:
+  api:
+    key: ${OPENAI_API_KEY:}

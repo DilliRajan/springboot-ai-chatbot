@@ -1,0 +1,7 @@
+com\example\aichatbot\AiChatbotApplication.class
+com\example\aichatbot\controller\ChatController.class
+com\example\aichatbot\model\ChatRequest.class
+com\example\aichatbot\service\OpenAIService.class
+com\example\aichatbot\config\RestTemplateConfig.class
+com\example\aichatbot\controller\HealthController.class
+com\example\aichatbot\model\ChatResponse.class
